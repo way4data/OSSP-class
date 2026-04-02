@@ -5,6 +5,7 @@
 ## 성명: 홍길동
 ### 학과: 통계학과
 
-# Fetch & Merge
-## A
+## Fetch & Merge
+### A
 ### B
+
